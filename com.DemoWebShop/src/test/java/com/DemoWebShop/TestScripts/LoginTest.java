@@ -16,7 +16,7 @@ import com.DemoWebShop.pomPages.WelcomePage;
 
 public class LoginTest extends BaseTest {
 	
-	@Test(groups = {"FT","ST","RT"})
+	@Test(groups = {"FT","ST","RT","IT"})
 	public void loginIntoDemoWeb() throws EncryptedDocumentException, IOException
 	{
 		/*
